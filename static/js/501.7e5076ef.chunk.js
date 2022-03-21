@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkofertalaboral=self.webpackChunkofertalaboral||[]).push([[501],{501:function(e,a,c){e.exports=c.p+"static/media/icon-remove.70c075ce001e5ccae7c6.svg"}}]);

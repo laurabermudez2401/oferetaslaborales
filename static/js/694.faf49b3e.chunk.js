@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkofertalaboral=self.webpackChunkofertalaboral||[]).push([[694],{694:function(e,a,t){e.exports=t.p+"static/media/faceit.54a148ce9e8793ff767e.svg"}}]);

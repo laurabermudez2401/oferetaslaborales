@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkofertalaboral=self.webpackChunkofertalaboral||[]).push([[212],{212:function(a,e,s){a.exports=s.p+"static/media/manage.5a528a9669728fb94c8c.svg"}}]);
